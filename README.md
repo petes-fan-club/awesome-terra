@@ -49,6 +49,7 @@ Smart contracts applications, deployed on Terra.
 NFTs 
 
 - [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
+- [TerraPeeps](https://github.com/PFC-Validator/terra-peep721) - Mutable NFTs, 'buy' personalization, end-user minting via public-key verification
 
 ## Block Explorers
 
